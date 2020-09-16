@@ -313,3 +313,4 @@ pip-selfcheck.json
 # local files
 /internal-code/flights-api/flights.db
 /creds/deb-sa.json
+creds/
