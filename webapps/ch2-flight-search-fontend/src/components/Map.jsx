@@ -69,7 +69,7 @@ const Map = ({airportInfo}) => {
         <div style={{ height: "calc(66.67vh - 10rem)", width: "100%" }}>
             <GoogleMapReact
                 
-                bootstrapURLKeys={{key: "AIzaSyBtP_A6dX5ZPe6TzH9U7A-tbGew4vCh7KU"}}
+                bootstrapURLKeys={{key: ""}}
                 defaultCenter={defaultMapInfo.center}
                 defaultZoom={defaultMapInfo.zoom}
                 options={{clickableIcons: false}}
